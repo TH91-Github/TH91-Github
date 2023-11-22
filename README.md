@@ -41,7 +41,12 @@ https://react-record.vercel.app/<br>
 <br>
 
 ### 잔디심기 🌱
-<p>※ github 계정을 등록 후 해야한다.</p>
-<p>회사,다른 메일 사용시 기록이 되지 않았다..❌</p>
+
+$ git confit --global user.name TEST
+$ git config --global user.email TEST@gmail.com
+
+$ git config --local user.name TEST
+$ git config --local user.email TEST@gmail.com
+
 
 <p align="center">감사합니다. 😁</P>
