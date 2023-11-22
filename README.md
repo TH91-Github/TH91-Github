@@ -42,11 +42,11 @@ https://react-record.vercel.app/<br>
 
 ### 잔디심기 🌱
 
-$ git confit --global user.name TEST
-$ git config --global user.email TEST@gmail.com
-
-$ git config --local user.name TEST
-$ git config --local user.email TEST@gmail.com
+<p>$ git confit --global user.name TEST</p>
+<p>$ git config --global user.email TEST@gmail.com</p>
+<br />
+<p>$ git config --local user.name TEST</p>
+<p>$ git config --local user.email TEST@gmail.com</p>
 
 
 <p align="center">감사합니다. 😁</P>
