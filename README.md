@@ -41,7 +41,7 @@ https://react-record.vercel.app/<br>
 <br>
 
 ### 잔디심기 🌱
-
+* 프로젝트 git 계정 확인
 <p>$ git confit --global user.name TEST</p>
 <p>$ git config --global user.email TEST@gmail.com</p>
 <br />
