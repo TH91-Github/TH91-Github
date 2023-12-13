@@ -42,11 +42,16 @@ https://react-record.vercel.app/<br>
 
 ### 잔디심기 🌱
 * 프로젝트 git 계정 확인
-<p>$ git confit --global user.name TEST</p>
-<p>$ git config --global user.email TEST@gmail.com</p>
+Global
+<p>$ git confit --global user.name "이름"</p>
+<p>$ git config --global user.email "회사 메일"</p>
 <br />
-<p>$ git config --local user.name TEST</p>
-<p>$ git config --local user.email TEST@gmail.com</p>
+Local - 개인 프로젝트
+<p>$ git config --local user.name "이름" </p>
+<p>$ git config --local user.email "구글 계정"</p>
+
+
+![image](https://github.com/TH91-Github/TH91-Github/assets/95741499/42412405-8e23-4287-92f6-bab045e00277)
 
 
 <p align="center">감사합니다. 😁</P>
