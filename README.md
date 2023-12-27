@@ -51,7 +51,4 @@ Local - 개인 프로젝트
 <p>$ git config --local user.email "구글 계정"</p>
 
 
-![image](https://github.com/TH91-Github/TH91-Github/assets/95741499/42412405-8e23-4287-92f6-bab045e00277)
-
-
 <p align="center">감사합니다. 😁</P>
