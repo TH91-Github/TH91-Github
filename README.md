@@ -3,14 +3,13 @@
 
 ## github
 <p>
-- 메모장, OneNote, 클라우드 등 정리 했던 내용을 github로 다시 시작하기 (이슈 관련 등)
+- 메모장, OneNote, 클라우드 등 정리 했던 내용을 github로 기록.
 </p>
 <br>
 
-🎈Netlify<br>
-https://th-record-blog.netlify.app/<br>
-🎈Vercel<br>
-https://react-record.vercel.app/<br>
+🔗 https://portfolio-th.vercel.app
+
+🔗 https://react-record.vercel.app
 
 ### Stack 📕
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" /></span>
