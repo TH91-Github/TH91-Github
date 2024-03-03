@@ -1,5 +1,5 @@
 #  📚 안녕하세요 김태훈입니다.
-<p> 기록✍️ ➕ 코딩⌨️</p>
+<p> 기록✍️</p>
 
 ## github
 <p>
@@ -38,16 +38,6 @@
 <a href="https://velog.io/@th_velog"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="" /></a>
 <a href="https://blog.naver.com/k__taehoon__"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="" /></a>
 <br>
-
-### 잔디심기 🌱
-* 프로젝트 git 계정 확인
-Global
-<p>$ git confit --global user.name "이름"</p>
-<p>$ git config --global user.email "회사 메일"</p>
-<br />
-Local - 개인 프로젝트
-<p>$ git config --local user.name "이름" </p>
-<p>$ git config --local user.email "구글 계정"</p>
 
 
 <p align="center">감사합니다. 😁</P>
