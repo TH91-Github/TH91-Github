@@ -7,6 +7,7 @@
 </p>
 <br>
 
+<!-- 
 ### Stack 📕
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" /></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" /></span>
@@ -35,5 +36,6 @@
 <a href="https://blog.naver.com/k__taehoon__"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="" /></a>
 <br>
 
+-->
 
 <p align="center">감사합니다. 😁</P>
