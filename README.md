@@ -7,9 +7,9 @@
 </p>
 <br>
 
-🔗 https://portfolio-th.vercel.app
+/* 🔗 https://portfolio-th.vercel.app */
 
-🔗 https://react-record.vercel.app
+/* 🔗 https://react-record.vercel.app */
 
 ### Stack 📕
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" /></span>
