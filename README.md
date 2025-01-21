@@ -4,7 +4,9 @@
 ## github
 <p>
 - 메모장, OneNote, 클라우드 등 정리 했던 내용을 github로 기록!!
-- JavaScript, TypeScript, React 등 공부하고 개발 테스트 진행 😁
+</p>
+<p>
+  - JavaScript, TypeScript, React 등 공부하고 개발 테스트 진행 😁
 </p>
 <br>
 
