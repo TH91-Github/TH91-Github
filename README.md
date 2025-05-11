@@ -27,6 +27,6 @@
 
 ### 개인 기록
 - <a href="https://th91.tistory.com/" target="_blank" rel="noopener noreferrer">티스토리</a>
-- <a href="https://th91.tistory.com/" target="_blank" rel="noopener noreferrer">벨로그
+- <a href="https://velog.io/@th_velog/posts" target="_blank" rel="noopener noreferrer">벨로그</a>
 
 <p align="center">감사합니다. 😁</p>
