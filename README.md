@@ -6,7 +6,7 @@
 - React 프로젝트 중심으로 기능 및 컴포넌트 개발 테스트 진행
 
 ## Vervel 연동하여 배포
-- 진행중 [가이드 프로젝트](https://vercel.com/th91githubs-projects/react-record)
+- 진행중 [가이드 프로젝트](https://react-record.vercel.app/)
 - 일시 중단(가이드 진행 후 재진행) [날씨&지도](https://th-react-blog.vercel.app/)
 
 ### Stack 📕
