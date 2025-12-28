@@ -6,8 +6,9 @@
 - React 프로젝트 중심으로 기능 및 컴포넌트 개발 테스트 진행
 
 ## Vervel 연동하여 배포
-- 진행중 [가이드 프로젝트](https://react-record.vercel.app/)
-- 일시 중단(가이드 진행 후 재진행) [날씨&지도](https://th-react-blog.vercel.app/)
+- [가이드 프로젝트](https://react-record.vercel.app/)
+- [날씨&지도](https://th-react-blog.vercel.app/)
+- [통합 플랫폼](https://github.com/TH91-Github/th-platform)
 
 ### Stack 📕
 - <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" /></span>
