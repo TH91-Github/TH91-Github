@@ -7,7 +7,7 @@
 
 ## Vervel 연동하여 배포
 - [가이드 프로젝트](https://react-record.vercel.app/)
-- [날씨&지도](https://th-react-blog.vercel.app/)
+- [날씨&지도](https://main-th-blog.vercel.app/)
 - [통합 플랫폼](https://github.com/TH91-Github/th-platform) 리팩토링하여 진행 중
 
 ### Stack 📕
