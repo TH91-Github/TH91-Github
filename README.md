@@ -4,11 +4,11 @@
 
 ## JavaScript, React, Vue Project, 테스트
 - React 프로젝트 중심으로 기능 및 컴포넌트 개발 테스트 진행
+https://th-platform.vercel.app/
 
 ## Vervel 연동하여 배포
-- [가이드 프로젝트](https://react-record.vercel.app/)
 - [날씨&지도](https://main-th-blog.vercel.app/)
-- [통합 플랫폼](https://github.com/TH91-Github/th-platform) 리팩토링하여 진행 중
+- [가이드 & 통합 플랫폼](https://github.com/TH91-Github/th-platform) 리팩토링하여 진행 중
 
 ### Stack 📕
 - <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" /></span>
