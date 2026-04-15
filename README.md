@@ -8,7 +8,11 @@ https://th-platform.vercel.app/
 
 ## Vervel 연동하여 배포
 - [날씨&지도](https://main-th-blog.vercel.app/)
-- [가이드 & 통합 플랫폼](https://github.com/TH91-Github/th-platform) 리팩토링하여 진행 중
+  [github]((https://github.com/TH91-Github/react-blog))
+- [가이드 & 통합 플랫폼]((https://th-platform.vercel.app/))
+  [github](https://main-th-blog.vercel.app/)
+- [여행 일정 서비스](https://triply-seven.vercel.app/) 진행 중.
+- [사내 채팅 웹](https://ipartners-chat-git-develop-th91githubs-projects.vercel.app/) 진행 중.
 
 ### Stack 📕
 - <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" /></span>
