@@ -4,13 +4,12 @@
 
 ## JavaScript, React, Vue Project, 테스트
 - React 프로젝트 중심으로 기능 및 컴포넌트 개발 테스트 진행
-https://th-platform.vercel.app/
 
 ## Vervel 연동하여 배포
-- [가이드 & 통합 플랫폼]((https://th-platform.vercel.app/))
-  [github]((https://github.com/TH91-Github/th-platform))
-- [날씨&지도]((https://main-th-blog.vercel.app/))
-  [github]((https://github.com/TH91-Github/react-blog))
+- [가이드 & 통합 플랫폼](https://th-platform.vercel.app/)
+  [github](https://github.com/TH91-Github/th-platform)
+- [날씨&지도](https://main-th-blog.vercel.app/)
+  [github](https://github.com/TH91-Github/react-blog)
 
 - [여행 일정 서비스](https://triply-seven.vercel.app/) 진행 중.
 - [사내 채팅 웹](https://ipartners-chat.vercel.app/) 진행 중.
