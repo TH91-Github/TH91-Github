@@ -28,10 +28,6 @@
 - <span><img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white" alt="sass"/></span>
 - <span><img src="https://img.shields.io/badge/styled components-DB7093?logo=styled-components&logoColor=white" alt="styled components"/></span>
 - <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="figma"/></span>/<span><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/></span>
-<br>
 
-### 개인 기록
-- <a href="https://th91.tistory.com/" target="_blank" rel="noopener noreferrer">티스토리</a>
-- <a href="https://velog.io/@th_velog/posts" target="_blank" rel="noopener noreferrer">벨로그</a>
 
 <p align="center">감사합니다. 😁</p>
